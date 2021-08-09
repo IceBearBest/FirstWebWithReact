@@ -2,7 +2,7 @@
   "name": "rainco",
   "version": "1.0.0",
   "description": "This is a website with organized resources of actor Yuliang (Rainco) Xiao",
-  "main": "Homepage.html",
+  "main": "html.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",

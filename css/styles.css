@@ -1,6 +1,6 @@
 .jumbotron{
-    padding: 70px 30px 70px 30px;
-    margin: 0px auto;
+    padding: 30px 0px 0px 0px;
+    margin: 0px 0px;
     background: #3F70AB;
     color: floralwhite;
 }
@@ -16,4 +16,21 @@
     background-color: #9ab7da;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #3F70AB;
+}
+
+.img-fluid{
+    width: 100%;
+}
+
+.col-12 {
+    padding: 0 0 0 0;
 }
