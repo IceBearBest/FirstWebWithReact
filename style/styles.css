@@ -34,3 +34,11 @@ body{
 .col-12 {
     padding: 0 0 0 0;
 }
+
+.bilibilia, iframe {
+    display: block; 
+    width: 60vw; 
+    height: 40vw;
+    margin:0 auto;
+    /* position: fixed; */
+}
