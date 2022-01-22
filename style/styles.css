@@ -42,3 +42,8 @@ body{
     margin:0 auto;
     /* position: fixed; */
 }
+
+#logo {
+    width: 3vw;
+    height: 3vw;
+}
