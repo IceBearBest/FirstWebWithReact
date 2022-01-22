@@ -37,8 +37,8 @@ body{
 
 .bilibili, iframe {
     display: block; 
-    width: 60vw; 
-    height: 40vw;
+    width: 80vw; 
+    height: 45vw;
     margin:0 auto;
     /* position: fixed; */
 }
